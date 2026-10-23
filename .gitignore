@@ -1,0 +1,11 @@
+*.session
+*.session-*
+secrets.env
+state.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+*.tmp
+*.zip

@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "initiate_first": false,
+  "allowed_user_id": 0,
+  "model": "deepseek-flash",
+  "history_messages": 30,
+  "debounce_seconds": 5,
+  "reply_delay_seconds": 3,
+  "show_typing": true,
+  "max_output_tokens": 220,
+  "initiative_after_hours": 8,
+  "max_proactive_per_day": 2,
+  "api_timeout_seconds": 30
+}
